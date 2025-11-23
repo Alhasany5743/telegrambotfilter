@@ -7,7 +7,7 @@ import time
 from datetime import datetime, timedelta
 
 # ضع توكن البوت هنا قبل التشغيل
-TOKEN = "PUT_YOUR_TELEGRAM_TOKEN_HERE"
+TOKEN = "8589384013:AAHbOEQcnkd68xTkXytgZ_RPdRl9l7FiAUo"
 bot = telebot.TeleBot(TOKEN)
 
 BADWORDS_FILE = "badwords.txt"
